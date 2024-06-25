@@ -1,5 +1,5 @@
 # Typing Practice Using React
-Typing Practice Using React
+To create a typing practice application using React, we will develop a simple app that allows users to type the text displayed on the screen and calculates their typing speed and accuracy.
 
 Preview:
 
